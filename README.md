@@ -1,4 +1,4 @@
-### Hi there 👋
+## Documenting the Journey.
 
 <!--
 **winstoneochieng/winstoneochieng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
