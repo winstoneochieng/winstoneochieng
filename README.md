@@ -79,9 +79,9 @@
   ## Let's Connect :earth_africa:
 <p align="center">
   <a href="mailto:winstoneochieng.wo@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/winstone-ochieng-679355b7/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://web.facebook.com/onyi.wins"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.youtube.com/channel/UCRa1sJI4RjVV4Yxxbw8sQ9A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+  <a href="https://www.linkedin.com/in/winstone-ochieng-679355b7/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://web.facebook.com/onyi.wins"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="https://www.youtube.com/channel/UCRa1sJI4RjVV4Yxxbw8sQ9A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
 </p>
    
