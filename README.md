@@ -75,7 +75,7 @@
 	
 </p>
    
-   ### [LinkedIn](https://www.linkedin.com/in/winstone-ochieng-679355b7/)   |  [Twitter](https://twitter.com/ItsWinstones)
+  
 <!--
 **winstoneochieng/winstoneochieng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
