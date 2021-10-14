@@ -45,7 +45,24 @@
 
  <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black">  <img src="https://img.shields.io/badge/PHP-686ca3?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-F5820B?style=for-the-badge&logo=firebase&logoColor=FFCB2B">
 
+<br>
+<br>
+   
+   # Projects
 
+- [Pig Game](https://lnkd.in/diBfEFZ)
+- [Todo list](https://lnkd.in/dcWPymdG)
+- [Quiz App](https://lnkd.in/dhq4XC7M)
+- [Password Generator](https://lnkd.in/dKD94x6)
+- [Github Profile Card](https://lnkd.in/dP5WUWg)
+- [Drawing App](https://lnkd.in/dk73wsM)
+- [Theme Clock](https://lnkd.in/dYEuEhh)
+- [A simple movie app](https://lnkd.in/dHwSKmE)
+  
+<br>
+<br>
+   
+   ### [LinkedIn](https://www.linkedin.com/in/winstone-ochieng-679355b7/)   |  [Twitter](https://twitter.com/ItsWinstones)
 <!--
 **winstoneochieng/winstoneochieng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
