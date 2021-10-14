@@ -1,4 +1,6 @@
-## Documenting the Journey.
+## About Me
+
+[LinkedIn](https://www.linkedin.com/in/winstone-ochieng-679355b7/)
 
 <!--
 **winstoneochieng/winstoneochieng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
