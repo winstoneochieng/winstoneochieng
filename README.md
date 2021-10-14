@@ -65,6 +65,15 @@
 - [A simple movie app](https://lnkd.in/dHwSKmE)
   
 <br>
+## 📊 Github Stats (Expand to View)
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/winstoneochieng"><img alt="Winstone's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=winstoneochieng&custom_title=Winstone%20Ochieng's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+	 
 <br>
  
   ## Let's Connect :earth_africa:
