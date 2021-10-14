@@ -2,7 +2,7 @@
 <p align="center">
   
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Web+Developer;Tech%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 
@@ -66,6 +66,14 @@
   
 <br>
 <br>
+ ## :earth_africa: Let's Connect
+<p align="center">
+  <a href="mailto:winstoneochieng.wo@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/winstone-ochieng-679355b7/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://web.facebook.com/onyi.wins"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.youtube.com/channel/UCRa1sJI4RjVV4Yxxbw8sQ9A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
+</p>
    
    ### [LinkedIn](https://www.linkedin.com/in/winstone-ochieng-679355b7/)   |  [Twitter](https://twitter.com/ItsWinstones)
 <!--
