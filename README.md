@@ -65,7 +65,7 @@
 - [A simple movie app](https://lnkd.in/dHwSKmE)
   
 <br>
-## 📊 Github Stats (Expand to View)
+##  📊 Github Stats (Expand to View)
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
