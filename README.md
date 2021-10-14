@@ -2,6 +2,39 @@
 
 [LinkedIn](https://www.linkedin.com/in/winstone-ochieng-679355b7/)
 
+# Education
+
+<table>
+  <tr>
+    <th>Course</th>
+    <th>School/University</th>
+    <th>Year of Passing</th>
+    <th>Score</th>
+  </tr>
+  <tr>
+    <td> Software Engineering</td>
+    <td><a href="https://www.holbertonschool.com/">Holberton School</a></td>
+    <td>2022</td>
+    <td>4 GPA</td>
+  </tr>
+  <tr>
+    <td>Economics & Political Science</td>
+    <td><a href="https://www.uonbi.ac.ke/">University of Nairobi</a></td>
+    <td>2019</td>
+    <td>Second Class Upper</td>
+  </tr>
+  <tr>
+    <td>Secondary School Certification</td>
+    <td><a href="#">Kisumu Boys' High</a></td>
+    <td>2013</td>
+    <td>73 Pts</td>
+  </tr>
+ </table>
+    
+<Br>
+ <Br>
+
+
 # Tech Stack
 
 ### Front End
