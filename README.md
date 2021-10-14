@@ -1,6 +1,6 @@
 ## About Me
 
-### [LinkedIn](https://www.linkedin.com/in/winstone-ochieng-679355b7/)    [Twitter](https://twitter.com/ItsWinstones)
+### [LinkedIn](https://www.linkedin.com/in/winstone-ochieng-679355b7/)   |  [Twitter](https://twitter.com/ItsWinstones)
 
 # Education
 
