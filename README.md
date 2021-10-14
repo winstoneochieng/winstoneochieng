@@ -66,7 +66,7 @@
   
 <br>
 	 
-## Github Stats (Expand to View) 📊 
+## 📊 Github Stats (Expand to View)  
 	 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
