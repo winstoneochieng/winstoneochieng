@@ -67,7 +67,7 @@
 <br>
 <br>
  
-  ### Let's Connect :earth_africa:
+  ## Let's Connect :earth_africa:
 <p align="center">
   <a href="mailto:winstoneochieng.wo@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/winstone-ochieng-679355b7/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
