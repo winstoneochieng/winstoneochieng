@@ -84,6 +84,15 @@
 - [A simple movie app](https://lnkd.in/dHwSKmE)
   
 <br>
+	
+	# ✒️ Latest Blogs
+
+- [OOP in Python](https://www.linkedin.com/pulse/tech-factfile-05-oop-python-winstone-ochieng/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3B9y7SwqcaS9aCcps814ZHqA%3D%3D)
+- [DNS](https://www.linkedin.com/pulse/tech-factfile-04-dns-winstone-ochieng/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3B9y7SwqcaS9aCcps814ZHqA%3D%3D)
+- [Database Management Systems](https://www.linkedin.com/pulse/tech-factfile-03-database-management-systems-winstone-ochieng/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3B9y7SwqcaS9aCcps814ZHqA%3D%3D)	
+- [HTTP vs HTTPS](https://www.linkedin.com/pulse/tech-factfile-02-http-vs-https-winstone-ochieng/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3B9y7SwqcaS9aCcps814ZHqA%3D%3D)
+- [MVC Architecture](https://www.linkedin.com/pulse/tech-factfile-01-mvc-architecture-winstone-ochieng/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3B9y7SwqcaS9aCcps814ZHqA%3D%3D)
+<br>
 	 
 ## 📊 Github Stats (Expand to View)  
 	 
