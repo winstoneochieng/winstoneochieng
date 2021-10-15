@@ -72,7 +72,7 @@
 <br>
 <br>
    
-   # Projects
+   # :hammer_and_wrench: Projects
 
 - [Pig Game](https://lnkd.in/diBfEFZ)
 - [Todo list](https://lnkd.in/dcWPymdG)
@@ -85,7 +85,7 @@
   
 <br>
 	
-	# ✒️ Latest Blogs
+# :black_nib: Latest Blogs
 
 - [OOP in Python](https://www.linkedin.com/pulse/tech-factfile-05-oop-python-winstone-ochieng/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3B9y7SwqcaS9aCcps814ZHqA%3D%3D)
 - [DNS](https://www.linkedin.com/pulse/tech-factfile-04-dns-winstone-ochieng/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3B9y7SwqcaS9aCcps814ZHqA%3D%3D)
