@@ -26,7 +26,7 @@
     <td>Economics & Political Science</td>
     <td><a href="https://www.uonbi.ac.ke/">University of Nairobi</a></td>
     <td>2019</td>
-    <td>Second Class Upper</td>
+    <td>2nd Class Upper</td>
   </tr>
   <tr>
     <td>Secondary School Certification</td>
