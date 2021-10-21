@@ -14,25 +14,25 @@
     <th>Course</th>
     <th>School/University</th>
     <th>Year of Passing</th>
-    <th>Score</th>
+    
   </tr>
   <tr>
     <td> Software Engineering</td>
     <td><a href="https://www.holbertonschool.com/">Holberton School</a></td>
     <td>2022</td>
-    <td>4 GPA</td>
+    <td></td>
   </tr>
   <tr>
     <td>Economics & Political Science</td>
     <td><a href="https://www.uonbi.ac.ke/">University of Nairobi</a></td>
     <td>2019</td>
-    <td>2nd Class Upper</td>
+    <td></td>
   </tr>
   <tr>
     <td>Secondary School Certification</td>
     <td><a href="#">Kisumu Boys' High</a></td>
     <td>2013</td>
-    <td>73 Pts</td>
+    <td></td>
   </tr>
  </table>
     
